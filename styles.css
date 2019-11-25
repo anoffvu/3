@@ -1,0 +1,17 @@
+body {
+  margin: 0;
+  padding: 0;
+}
+
+.caption {
+  /* display: bloc */
+  width: 5%;
+  position: fixed;
+  padding: 2vh;
+  border: 0;
+  /* background: #333; */
+  color: #fff;
+  /* border-radius: 5px; */
+  margin-left: 4vw;
+  margin-top: 4vw;
+}
